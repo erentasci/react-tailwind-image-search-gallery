@@ -2,6 +2,8 @@
 
 In order to use the application, you must enter your own key in the API_KEY section in the .env file after installation.
 
+Live URL 💻 : https://react-tailwind-image-search-gallery.vercel.app/;
+
 ```
 - React
 - Tailwind CSS
